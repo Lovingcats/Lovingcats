@@ -22,7 +22,8 @@
   
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whehdrms6810">
 <img src="https://github-readme-stats.vercel.app/api?username=Lovingcats&show_icons=true&theme=github_dark&hide_title=true&hide_rank=false" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lovingcats&layout=compact&theme=tokyonight" width"50%">
+<br>
+<img align = src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lovingcats&layout=compact&theme=tokyonight" width"50%">
   
  
   
