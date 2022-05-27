@@ -14,7 +14,6 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Blueprint-137CBD?style=flat-square&logo=Blueprint&logoColor=white"/>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 
 <br>
 </div>
