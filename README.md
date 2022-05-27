@@ -1,5 +1,5 @@
 
-# <div align="center">Tech</div>
+# <div align="center">기술</div>
 
 <div align="center">
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
@@ -16,7 +16,12 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Blueprint-137CBD?style=flat-square&logo=Blueprint&logoColor=white"/>
 
 <br>
+<br>
+<br>
 </div>
-
+<img src="https://github-readme-stats.vercel.app/api?username=Lovingcats&show_icons=true&theme=github_dark&hide_title=true&hide_rank=false" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lovingcats&layout=compact&theme=tokyonight">
+  
+ 
   
   
