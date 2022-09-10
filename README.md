@@ -47,6 +47,5 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
 <br>
 </div> 
-
  
   
