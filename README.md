@@ -1,7 +1,8 @@
 
 
 <div align="center" style="text-align:center">
-https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Lovingcats&fontSize=55
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Dev_diadntjr&fontSize=75)
+
 </div>
 <br><br>
 
