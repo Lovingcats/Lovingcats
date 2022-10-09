@@ -1,7 +1,6 @@
 
 
 <div align="center" style="text-align:center">
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Dev_diadntjr&fontSize=75)
 
 </div>
 <br><br>
