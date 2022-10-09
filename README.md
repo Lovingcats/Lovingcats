@@ -1,7 +1,7 @@
 
 
 <div align="center" style="text-align:center">
-(https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Lovingcats&fontSize=55)
+https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Lovingcats&fontSize=55
 </div>
 <br><br>
 
