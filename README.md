@@ -1,9 +1,15 @@
 
+
 <h1 align="center">
 개발해온 Project들💫
 </h1>
 
+<h3 align="center">
+Mobile developer💻
+</h3>
+
 <br>
+
 <p align="center">
 
 ## Side_Project
