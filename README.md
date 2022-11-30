@@ -1,26 +1,7 @@
 
-
-<div align="center" style="text-align:center">
-
-</div>
-<br><br>
-
-</div> 
-<div align="center">
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whehdrms6810">
-<img src="https://github-readme-stats.vercel.app/api?username=Lovingcats&show_icons=true&theme=github_dark&hide_title=true&hide_rank=false" width="50%">
-<br>
-
-
 <h1 align="center">
-	<img
-		width="200"
-		src="https://user-images.githubusercontent.com/89582664/203874060-03b3be4f-7215-47d1-bd1e-44e8d4248459.png">
-</h1>
-
-<h3 align="center">
 개발해온 Project들💫
-</h3>
+</h1>
 
 <br>
 <p align="center">
@@ -46,6 +27,18 @@
 - [**BSSMflat**](https://github.com/BSSMflat/BSSMflat-App)
 - [**she-s-thema**](https://github.com/she-s-thema/kkm_android)
 - [**코드코치(CodeCoach)**](https://github.com/Code-Coach-org/Code-Coach-Front-end)
+
+<div align="center" style="text-align:center">
+
+</div>
+<br><br>
+
+</div> 
+<div align="center">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whehdrms6810">
+<img src="https://github-readme-stats.vercel.app/api?username=Lovingcats&show_icons=true&theme=github_dark&hide_title=true&hide_rank=false" width="50%">
+<br>
+
 
 
 # Most Languages
