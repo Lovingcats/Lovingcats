@@ -11,6 +11,16 @@ Mobile developer💻
 <br>
 
 <p align="center">
+  
+  
+## Team_Project (organiztion)
+
+- [**Studying Timer**](https://github.com/orgs/StudyingTimer/repositories)
+- [**BSSM-BGIT**](https://github.com/orgs/BSSM-BGIT/repositories)
+- [**JJOK_PROJECT(WELBATO)**](https://github.com/JJOK-PROJECT/App)
+- [**BSSMflat**](https://github.com/BSSMflat/BSSMflat-App)
+- [**she-s-thema**](https://github.com/she-s-thema/kkm_android)
+- [**코드코치(CodeCoach)**](https://github.com/Code-Coach-org/Code-Coach-Front-end)
 
 ## Side_Project
 
@@ -25,14 +35,6 @@ Mobile developer💻
 </p>
 <br>
 
-## Team_Project (organiztion)
-
-- [**Studying Timer**](https://github.com/orgs/StudyingTimer/repositories)
-- [**BSSM-BGIT**](https://github.com/orgs/BSSM-BGIT/repositories)
-- [**JJOK_PROJECT(WELVATO)**](https://github.com/JJOK-PROJECT/App)
-- [**BSSMflat**](https://github.com/BSSMflat/BSSMflat-App)
-- [**she-s-thema**](https://github.com/she-s-thema/kkm_android)
-- [**코드코치(CodeCoach)**](https://github.com/Code-Coach-org/Code-Coach-Front-end)
 
 <div align="center" style="text-align:center">
 
