@@ -19,7 +19,7 @@ Mobile developer💻
 - [**BSSM-BGIT**](https://github.com/orgs/BSSM-BGIT/repositories)
 - [**JJOK_PROJECT(WELBATO)**](https://github.com/JJOK-PROJECT/App)
 - [**BSSMflat**](https://github.com/BSSMflat/BSSMflat-App)
-- [**Yuuri-Iot**](https://github.com/Yuuri-iot/repositories)
+- [**Yuuri-Iot**](https://github.com/orgs/Yuuri-iot/repositories)
 - [**she-s-thema**](https://github.com/she-s-thema/kkm_android)
 - [**코드코치(CodeCoach)**](https://github.com/Code-Coach-org/Code-Coach-Front-end)
 
