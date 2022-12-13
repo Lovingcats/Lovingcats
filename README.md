@@ -17,7 +17,7 @@ Mobile developer💻
 
 - [**Studying Timer**](https://github.com/orgs/StudyingTimer/repositories)
 - [**BSSM-BGIT**](https://github.com/orgs/BSSM-BGIT/repositories)
-- [**JJOK_PROJECT(WELBATO)**](https://github.com/JJOK-PROJECT/App)
+- [**JJOK_PROJECT(WELBATO)**](https://github.com/orgs/JJOK-PROJECT/repositories)
 - [**BSSMflat**](https://github.com/BSSMflat/BSSMflat-App)
 - [**Yuuri-Iot**](https://github.com/orgs/Yuuri-iot/repositories)
 - [**she-s-thema**](https://github.com/she-s-thema/kkm_android)
