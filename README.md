@@ -24,7 +24,7 @@ Mobile developer💻
 - [**she-s-thema**](https://github.com/she-s-thema/kkm_android)
 - [**코드코치(CodeCoach)**](https://github.com/Code-Coach-org/Code-Coach-Front-end)
 
-## Side_Project
+## Side_Projects
 
 - [**Custom room**](https://github.com/Lovingcats/Flutter_project/tree/master/Custom%20room)
 - [**Login**](https://github.com/Lovingcats/Flutter_project/tree/master/Login/login)
