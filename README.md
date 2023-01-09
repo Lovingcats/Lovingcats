@@ -18,7 +18,7 @@ Mobile developer💻
 - [**Studying Timer**](https://github.com/orgs/StudyingTimer/repositories)
 - [**BSSM-BGIT**](https://github.com/orgs/BSSM-BGIT/repositories)
 - [**JJOK_PROJECT(WELBATO)**](https://github.com/orgs/JJOK-PROJECT/repositories)
-- [**BSSMflat**](https://github.com/BSSMflat/repositories)
+- [**BSSMflat**](https://github.com/orgs/BSSMflat/repositories)
 - [**Yuuri-Iot**](https://github.com/orgs/Yuuri-iot/repositories)
 - [**With.GG**](https://github.com/orgs/PLZ-SET-WARD/repositories)
 - [**Daily-Assistance**](https://github.com/Daily-Assistance)
