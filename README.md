@@ -18,10 +18,12 @@ Mobile developer💻
 - [**Studying Timer**](https://github.com/orgs/StudyingTimer/repositories)
 - [**BSSM-BGIT**](https://github.com/orgs/BSSM-BGIT/repositories)
 - [**JJOK_PROJECT(WELBATO)**](https://github.com/orgs/JJOK-PROJECT/repositories)
-- [**BSSMflat**](https://github.com/BSSMflat/BSSMflat-App)
+- [**BSSMflat**](https://github.com/BSSMflat/repositories)
 - [**Yuuri-Iot**](https://github.com/orgs/Yuuri-iot/repositories)
 - [**With.GG**](https://github.com/orgs/PLZ-SET-WARD/repositories)
-- [**she-s-thema**](https://github.com/she-s-thema/kkm_android)
+- [**Daily-Assistance**](https://github.com/Daily-Assistance)
+- [**Mobydick**](https://github.com/orgs/Mobydick-Team/repositories)
+- [**HealMeGitProject**](https://github.com/orgs/HealMeGitproject/repositories)
 - [**코드코치(CodeCoach)**](https://github.com/Code-Coach-org/Code-Coach-Front-end)
 
 ## Side_Projects
