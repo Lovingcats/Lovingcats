@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-Mobile developer💻
+Mobile developer 💻
 </h3>
 
 <br>
