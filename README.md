@@ -13,7 +13,7 @@ Mobile developer 💻
 <p align="center">
   
   
-## Team_Project (organiztion)
+## Team_Project
 
 - [**Studying Timer**](https://github.com/orgs/StudyingTimer/repositories)
 - [**Mobydick**](https://github.com/orgs/Mobydick-Team/repositories)
