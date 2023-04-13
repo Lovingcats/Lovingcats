@@ -33,14 +33,10 @@ Mobile developer 💻
 
 ## Side_Projects
 
-- [**Custom room**](https://github.com/Lovingcats/Flutter_project/tree/master/Custom%20room)
 - [**Login**](https://github.com/Lovingcats/Flutter_project/tree/master/Login/login)
 - [**dicegame**](https://github.com/Lovingcats/Flutter_project/tree/master/license/license)
-- [**license**](https://github.com/Lovingcats/Flutter_project/tree/master/license/license)
 - [**netflix**](https://github.com/Lovingcats/Flutter_project/tree/master/netflix/netflix)
-- [**shopping**](https://github.com/Lovingcats/Flutter_project/tree/master/shopping/shopping)
 - [**weather**](https://github.com/Lovingcats/Flutter_project/tree/master/weather)
-- [**welcome**](https://github.com/Lovingcats/Flutter_project/tree/master/welcome/welcome)
 </p>
 <br>
 
