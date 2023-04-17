@@ -5,8 +5,10 @@
 </h1>
 
 <h3 align="center">
-Mobile developer 💻
-https://lovely-cornucopia-0ba.notion.site/03beeeb9878b48bb989768b58f88b5fc
+Mobile developer 💻 <br>
+
+- [**포트폴리오**](https://lovely-cornucopia-0ba.notion.site/03beeeb9878b48bb989768b58f88b5fc)
+
 </h3>
 
 <br>
