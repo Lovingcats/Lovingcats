@@ -6,6 +6,7 @@
 
 <h3 align="center">
 Mobile developer 💻
+https://lovely-cornucopia-0ba.notion.site/03beeeb9878b48bb989768b58f88b5fc
 </h3>
 
 <br>
