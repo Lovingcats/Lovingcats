@@ -57,7 +57,14 @@ Mobile developer 💻 <br>
 <br>
 <br>
   
-  
+  <div align = "center">
+<a href="https://profile.codersrank.io/user/lovingcats">
+    <img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Lovingcats&branding=false" width="500"
+/>
+  </a>
+</div>
+
 
 # Most Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lovingcats&layout=compact&theme=tokyonight">
