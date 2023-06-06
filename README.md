@@ -7,7 +7,7 @@
 <h3 align="center">
 Mobile developer 💻 <br>
 
-- [**포트폴리오**](https://lovely-cornucopia-0ba.notion.site/03beeeb9878b48bb989768b58f88b5fc)
+- [**포트폴리오**](https://lovely-cornucopia-0ba.notion.site/05f0c597d9ac487a9228f3fd172c196a?pvs=4)
 
 </h3>
 
