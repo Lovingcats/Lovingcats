@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-개발해온 Project들💫 
+개발해온 Project들
 </h1>
 
 <h3 align="center">
