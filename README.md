@@ -12,7 +12,7 @@
   
 <br>
 
-👀 포트폴리오 구경하기 → [클릭!](https://lovely-cornucopia-0ba.notion.site/05f0c597d9ac487a9228f3fd172c196a?pvs=4)
+👀 포트폴리오 구경하기 → [클릭!](https://lovingcats.github.io/Portfolio_flutter/)
 
 ## Connect with Me
 
