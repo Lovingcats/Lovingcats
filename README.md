@@ -41,10 +41,10 @@
 
 | 프로젝트 | 설명 | 링크 |
 | -------- | ---- | ---- |
-| Login UI | Flutter로 구현한 인증 화면 샘플 | [코드 보기](https://github.com/Lovingcats/Flutter_project/tree/master/Login/login) |
-| Dice Game | 주사위 게임 앱 | [코드 보기](https://github.com/Lovingcats/Flutter_project/tree/master/license/license) |
-| Netflix Clone | 영화 목록 UI 클론 프로젝트 | [코드 보기](https://github.com/Lovingcats/Flutter_project/tree/master/netflix/netflix) |
-| Weather App | OpenWeather API를 사용한 날씨 앱 | [코드 보기](https://github.com/Lovingcats/Flutter_project/tree/master/weather) |
+| Studying Timer | 교내에서 사용하는 **학습 증진 도움 앱** | [설명 보기](https://lovely-cornucopia-0ba.notion.site/Studying-Timer-53452feb60e2499dbd7f2f4688d1ca8f) |
+| Welbato | **VR시스템**을 활용한 부산SW마이스터고등학교 소개 서비스 | [설명 보기](https://lovely-cornucopia-0ba.notion.site/Welbato-7a5b7bc9456443f3b876aa38e0b2f0fd) |
+| BGit | 교내에서 **Github 커밋수와 백준의 티어**를 기준으로 한 **랭킹 앱** | [설명 보기](https://lovely-cornucopia-0ba.notion.site/BGIT-52fd7c184e554de1a900d933d8c1e7f7) |
+| PromAD | **Openai Sora**를 사용한 **AI 영상 생성 앱** | [진행 중](https://github.com/PromAD-sora/PromAD_Sora_App) |
 
 
 
